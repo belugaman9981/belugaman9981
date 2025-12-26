@@ -1,10 +1,10 @@
-## Hi there 👋 67?
+## Hi there 👋 
 
 - 🔭 I’m currently working on lots of stuff, plus MakeCode Arcade stuff
 - 🌱 I’m currently learning pretty much everything
 - 👯 I’m looking to collaborate on anything MakeCode Arcade
-- 🤔 I’m looking for help with @Brohann3214
-- 😄 Pronouns: cat
+- 🤔 I’m looking for help with to eat dinner rn
+- 😄 Pronouns: human
 - ⚡ Fun fact: ...
 
 
