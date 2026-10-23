@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Matt+%F0%9F%90%8B;I+build+local+AI+systems;I+make+web+apps+%26+games" alt="Typing SVG" />
@@ -37,18 +36,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=belugaman9981&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/belugaman9981/belugaman9981/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-> The snake needs a one-time setup: add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to this repo. Until then, delete this section.
 
 ---
 
