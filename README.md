@@ -33,7 +33,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=belugaman9981&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belugaman9981&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=belugaman9981&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=belugaman9981&theme=tokyonight&hide_border=true&refresh=1" />
 
 </div>
 
