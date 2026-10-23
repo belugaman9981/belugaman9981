@@ -15,19 +15,6 @@
 
 ---
 
-## 🚀 Projects
-
-| Project | What it is |
-|---|---|
-| 🤖 [**AcumenAI / ClawCow Agent**](https://github.com/belugaman9981/AcumenAI-2.0) | A fully local, evolutionary AI "brain" system |
-| 📰 **Kids AI Buzz** | An AI news platform made for kids |
-| 🀄 **检字表 (Jianzi Biao)** | A Chinese dictionary lookup site, searchable by radical and stroke count |
-| 📷 **Photo Pinyin** | Point your camera at Chinese text and get a pinyin overlay with definitions |
-| 🏌️ **Golf Swing Lab** | AI pose tracking to analyze golf swings |
-| 🕹️ **Kyle Jordan's Maze Adventure** | A tile-based maze game built with Python and pygame |
-
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
