@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Matt+%F0%9F%90%8B;I+build+local+AI+systems;I+make+web+apps+%26+games" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=belugaman9981&color=4ade80&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/belugaman9981?style=for-the-badge&color=0ea5e9&logo=github" alt="Followers" />
-
 </div>
 
 ---
